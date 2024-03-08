@@ -1,0 +1,7 @@
+{
+  "protocol": "https",
+  "domain": "accuweather.com",
+  "wait": 5000,
+  "city": "New York",
+  "recentCity": "Wari"
+}
